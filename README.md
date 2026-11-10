@@ -1,2 +1,4 @@
-# superagent-playground
-dsh-superagent playground
+﻿# superagent-playground
+
+This repository is a playgroud for the dsh-superagent prototype.
+
